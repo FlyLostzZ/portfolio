@@ -9,7 +9,7 @@
 
 
 .background{
-    background-image: url(./imagem/fundo2.jpg);
+    background-image: url(/imagem/fundo2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
